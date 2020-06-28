@@ -5,6 +5,7 @@ if(!result){
   location.href = "https://axcd.github.io/web/403";
 };
 
+
 function load(){
 
   document.body.style.height = (screen.availHeight-50) + "px";
