@@ -31,5 +31,4 @@ function loadLayout(){
     imgs[i].style.width = imgX + "px";
     imgs[i].style.height = imgY + "px";
   }
-
-ID
+}
